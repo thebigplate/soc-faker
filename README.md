@@ -38,7 +38,7 @@ At the time of writing this document, `soc-faker` has the ability to fake data f
 * [Timestamp](docs/source/faker/timestamp.md)
 * [Url](docs/source/faker/url.md)
 * [User Agent](docs/source/faker/useragent.md)
-* [Vulnerability](docs/source/faker/vulnerability)
+* [Vulnerability](docs/source/faker/vulnerability.md)
 * [Words](docs/source/faker/words.md)
 
 
